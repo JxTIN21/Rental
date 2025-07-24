@@ -12,8 +12,6 @@ A comprehensive car rental platform that connects car owners (hosts) with custom
 - [Usage](#usage)
 - [API Reference](#api-reference)
 - [Contributing](#contributing)
-- [Testing](#testing)
-- [Deployment](#deployment)
 - [Built With](#built-with)
 - [License](#license)
 - [Contact](#contact)
